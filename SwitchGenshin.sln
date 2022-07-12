@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchGenshin", "SwitchGenshin\SwitchGenshin.csproj", "{CE33DDA3-D7BA-4670-925A-6876F9940918}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchGenshinServer", "SwitchGenshinServer\SwitchGenshinServer.csproj", "{565F1D77-E708-4B5F-8A9C-673523CAC92B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CE33DDA3-D7BA-4670-925A-6876F9940918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CE33DDA3-D7BA-4670-925A-6876F9940918}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CE33DDA3-D7BA-4670-925A-6876F9940918}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CE33DDA3-D7BA-4670-925A-6876F9940918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565F1D77-E708-4B5F-8A9C-673523CAC92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565F1D77-E708-4B5F-8A9C-673523CAC92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565F1D77-E708-4B5F-8A9C-673523CAC92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565F1D77-E708-4B5F-8A9C-673523CAC92B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
