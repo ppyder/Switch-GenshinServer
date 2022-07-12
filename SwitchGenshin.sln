@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchGenshin", "SwitchGenshin\SwitchGenshin.csproj", "{CE33DDA3-D7BA-4670-925A-6876F9940918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE33DDA3-D7BA-4670-925A-6876F9940918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE33DDA3-D7BA-4670-925A-6876F9940918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE33DDA3-D7BA-4670-925A-6876F9940918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE33DDA3-D7BA-4670-925A-6876F9940918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03998F51-FAF6-4D88-B252-6308E7D58AAE}
+	EndGlobalSection
+EndGlobal
