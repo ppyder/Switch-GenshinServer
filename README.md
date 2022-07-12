@@ -1,7 +1,7 @@
 # SwitchGenshin
 
 ## 使用前提
-1. 支持系统win10/win11；
+1. 支持系统x64 win10/win11；
 2. 需要系统支持.Net Framwork 4.7.2;
 
 ## 软件特性

@@ -15,6 +15,9 @@ using System.Runtime.InteropServices;
 
 namespace SwitchGenshin
 {
+    /// <summary>
+    /// 注意，此程序需要将生成选项选为“x64”，否则查找注册表的操作可能会失败。
+    /// </summary>
     internal class Program
     {
         /// <summary>
